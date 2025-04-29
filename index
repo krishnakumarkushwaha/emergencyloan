@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <!-- Basic Meta Tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- SEO Title and Description -->
+  <title>Home | Emergency Loan</title>
+  <meta name="description" content="Welcome to Emergency Loan. We provide the best services and products.">
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://emergencyloan.com.np/">
+
+  <!-- OpenGraph Tags -->
+  <meta property="og:title" content="Home | Emergency Loan">
+  <meta property="og:description" content="We provide quality services and products.">
+  <meta property="og:image" content="https://emergencyloan.com.np/images/banner.webp">
+  <meta property="og:url" content="https://emergencyloan.com.np/">
+  <meta property="og:type" content="website">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Home | Emergency Loan">
+  <meta name="twitter:description" content="We provide quality services and products.">
+  <meta name="twitter:image" content="https://emergencyloan.com.np/images/banner.webp">
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
+  <link href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet'/>
+
+  <!-- Custom CSS (Optional) -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <!-- Navbar Style HTML Code -->
+    <div style='margin-top:60px; '>
+        <nav class='navbar navbar-expand-lg fixed-top'>
+            <div class='container-fluid'>
+               <!-- Navbar content -->
+              <a class='navbar-brand' href='https://www.emergencyloan.com.np'>
+                <img alt='Logo' class='d-inline-block align-text-top' height='60' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhir9HB-W7GVm5HL9rXWW9lB04uxt-xww0kxJtLCodI5cavlhho5yNcBQCMK_sEkL7ZXTyk4FzHuCKkWry_tey29EFNZ0ltC9RMnYRViltb_SCHqSaOXmvSXz6mwJhS3wVs8jxIG6i_DrEFy3z_ePV5ip_2hoLuwJtgxKVP4vaEF7jmMMEUW1NyX_fjKYlg/s1600/Emergency%20Logo.png' width='240'/></a>
+              <button aria-controls='offcanvasNavbar' aria-label='Toggle navigation' class='navbar-toggler pe-0' data-bs-target='#offcanvasNavbar' data-bs-toggle='offcanvas' type='button'>
+                <span class='navbar-toggler-icon'>
+              </span></button>
+              <div aria-labelledby='offcanvasNavbarLabel' class='offcanvas offcanvas-end' id='offcanvasNavbar' tabindex='-1'>
+                <div class='offcanvas-header'>
+                <a class='navbar-brand' href='https://www.emergencyloan.com.np'>
+                <img alt='Logo' class='d-inline-block align-text-top' height='40' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiklr77xlQFtj0Paw4bbYeAYmb-LV4cBUAQbxGVmKnwFW-3VUq7p2m_M1hmSuOiUzMhHj_oSIcS3dTjINmLzZ15P3JIFROaVvPenYUgEIR6-Eg72ymPuSMvjcaIPB02-aDtJi1cp4NLUfYy6zAaHGFf3WvJJb9dClzcQreG_UBiEatvEQKdQU9IN-JNw3hm/s320/Jamin%20Bazaar.jpeg' width='40'/>
+                Emergency Loan</a>
+                  <button aria-label='Close' class='btn-close' data-bs-dismiss='offcanvas' type='button'>
+                </button></div>
+                <div class='offcanvas-body'>
+                  <ul class='navbar-nav justify-content-end flex-grow-1 pe-3'>
+    <li class='nav-item dropdown'>
+                        <a aria-expanded='false' class='nav-link dropdown-toggle' data-bs-toggle='dropdown' href='https://www.emergencyloan.com.np/' role='button'>
+                          Company
+                        </a>
+                        <ul class='dropdown-menu'>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/p/about-company.html'>About Us</a></li>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/p/contactus.html'>Contact Us</a></li>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/p/our-team.html'>Our Team</a></li>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/p/our-achievement.html'>Our Achievement</a></li>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/p/our-services.html'>Our Services</a></li>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/p/branches.html'>Our Branches</a></li>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/p/careers.html'>Career</a></li>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/p/blog.html'>Blogs</a></li>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/p/legal-documents.html'>Legal Document</a></li>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/p/podcasts.html'>Podcasts</a></li>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/p/privacy-policy.html'>Privacy and Policy</a></li>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/p/terms-and-condition.html'>Term and Conditions</a></li>
+                          
+                        </ul>
+                    </li>
+                       <li class='nav-item dropdown'>
+                        <a aria-expanded='false' class='nav-link dropdown-toggle' data-bs-toggle='dropdown' href='https://www.emergencyloan.com.np/' role='button'>
+                          Property
+                        </a>
+                        <ul class='dropdown-menu'>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Basic Listing</a></li>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Standard Listing</a></li>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Premium Listing</a></li>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Super Listing</a></li>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Listing Policy</a></li>
+                        </ul>
+                    </li>
+                         <li class='nav-item dropdown'>
+                        <a aria-expanded='false' class='nav-link dropdown-toggle' data-bs-toggle='dropdown' href='https://www.emergencyloan.com.np/' role='button'>
+                          Property
+                        </a>
+                        <ul class='dropdown-menu'>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Basic Listing</a></li>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Standard Listing</a></li>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Premium Listing</a></li>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Super Listing</a></li>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Listing Policy</a></li>
+                        </ul>
+                    </li>
+                    
+                       <li class='nav-item dropdown'>
+                        <a aria-expanded='false' class='nav-link dropdown-toggle' data-bs-toggle='dropdown' href='https://www.emergencyloan.com.np/' role='button'>
+                          Property Listing
+                        </a>
+                        <ul class='dropdown-menu'>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Basic Listing</a></li>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Standard Listing</a></li>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Premium Listing</a></li>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Super Listing</a></li>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Listing Policy</a></li>
+                        </ul>
+                    </li>
+    
+                          <li class='nav-item dropdown'>
+                            <a aria-expanded='false' class='nav-link dropdown-toggle' data-bs-toggle='dropdown' href='https://nationalmodelsacademy.blogspot.com/#' role='button'>
+                              Services
+                            </a>
+                            <ul class='dropdown-menu'>
+                              <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/p/pricing.html'>Pricing</a></li>
+                              <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Land Exchange</a></li>
+                              <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Property Management</a></li>
+                              <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Business Partnership</a></li>
+                              <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Dealership</a></li>
+                              <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Gardening/Landscaping</a></li>
+                              <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Land Documentation</a></li>
+                            </ul>
+                              </li>
+                               <li class='nav-item dropdown'>
+                                <a aria-expanded='false' class='nav-link dropdown-toggle' data-bs-toggle='dropdown' href='https://www.emergencyloan.com.np/' role='button'>
+                                  Investment
+                                </a>
+                                <ul class='dropdown-menu'>
+                                  <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Share Investment</a></li>
+                                  <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Partnership Investment</a></li>
+                                  <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Special Investment</a></li>
+                                  <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Land Investment</a></li>
+                                  <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Commercial Investment</a></li>
+                                  <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Industrial Investment</a></li>
+                                  <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Residential Investment</a></li>
+                                </ul>        
+                               </li>  
+                              <li class='nav-item dropdown'>
+                        <a aria-expanded='false' class='nav-link dropdown-toggle' data-bs-toggle='dropdown' href='https://www.emergencyloan.com.np/' role='button'>
+                          Property
+                        </a>
+                        <ul class='dropdown-menu'>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Basic Listing</a></li>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Standard Listing</a></li>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Premium Listing</a></li>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Super Listing</a></li>
+                          <li><a class='dropdown-item' href='https://www.emergencyloan.com.np/'>Listing Policy</a></li>
+                        </ul>
+                    </li>
+                            <li class='nav-item dropdown'>
+                                <a aria-expanded='false' class='nav-link' href='https://www.emergencyloan.com.np/p/membership-form.html' role='button'>Career</a>
+                          </li>
+                            <li class='nav-item dropdown'>
+                                <a aria-expanded='false' class='nav-link' href='https://www.emergencyloan.com.np/p/membership-form.html' role='button'>Apply Now</a>
+                           </li>
+     
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </nav>
+        </div>    
+        <!-- Navbar Style HTML Code -->
+
+  <!-- Main Content -->
+  <main class="container my-5">
+    <h1 class="text-center">Welcome to Emergency Loan</h1>
+    <p class="lead text-center">We deliver high-quality products and services to our valued customers.</p>
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-light text-center py-4">
+    <p>© 2025 Emergency Loan. All rights reserved.</p>
+  </footer>
+
+  <!-- Bootstrap JS Bundle -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
+
+</body>
+</html>
